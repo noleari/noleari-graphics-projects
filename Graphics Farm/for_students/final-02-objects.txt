@@ -1,0 +1,49 @@
+(Required) Two kinds of objects created for this assignment:
+1. Apiary-0 - An apiary with apiary boxes and bees swarming the apiary
+    Includes: Bee object, ApiaryBox object, GrassField object
+    Bee object- Textured bee made out of primitives
+    (body: stripes texture)
+    ApiaryBox object - Textured box object made to represent an apiary box
+    (box: smooth wood plank texture)
+2. Grass-12 - A field of grass written with a custom shader pair so the grass moves over time as if there is wind
+
+(Required) Five other kinds of objects that you created (possibly in previous assignments):
+3. Bus-0 - Simple bus with a textured side made out of bufferGeometry (From wb08)
+    (sides: windows texture)
+4. GableHouse-0 - Simple house with textured front and roof (From wb08) 
+    (front: door and windows texture, roof: shingle texture)
+5. Cornfield - A field of corn with sparse grass below
+    Includes: GrassField object, Corn.glb model (Attribution below)
+6. Silo - A textured structure made out of primitives to represent a silo
+    (base: corrugated metal texture, top: white metal texture)
+7. TractorShed - A textured structure made out of primitives to hold a tractor
+    (posts: wood texture, ground: gravel texture, roof: shingle texture)
+
+(Optional) Backup Objects (more objects that you created, in case the ones above don't count):
+8. Tractor - Static tractor model from web (Attribution below)
+9. FlatHipHouse-0 - Shed with textured roof and front (From wb08, modified to look like a shed)
+    (front: shed front texture, roof: shingle texture);
+10. Mailbox-0 - Simple textured mailbox made out of primitives
+    (base post: wood texture)
+11. Treeline - Treeline to separate cornfield and apiary, made out of Tree.glb models (Attribution below)
+12. Fence - Fences surrounding the farm, made out of many textured fence objects I created
+    (posts: wood texture)
+13. gravel-road - Gravel road made out of plane geometries with texture & normal map for bus to drive on
+    (ground: gravel road texture, normal map: rockRoadNormal.jpg)
+14. Billboard - Textured billboard made out of primitives
+    (posts: wood texture, sign: custom drawn farm sign)
+15. AnimationWoman - Animated imported model of a woman who walks out from the bus into the house on loop (Attribution below)
+16. Farmer - Animated imported model of a farmer that user can control with WASD keys
+
+At least one of each type of object:
+Building/structure: Silo, TractorShed, GableHouse-0, FlatHipHouse-0, Mailbox-0, Fence, Billboard
+Vehicle: Bus-0, Tractor
+Natural Element: Grass-12, Treeline, Apiary, Cornfield
+
+Object loaded from a model file:
+Model: Tractor, Treeline, Farmer, 
+
+An object with a shader that you wrote:
+ShaderObj: Grass-12
+
+Other Objects that you would like to note:

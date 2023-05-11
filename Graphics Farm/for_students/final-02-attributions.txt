@@ -1,0 +1,64 @@
+List all attributions here, this include "self-attributions":
+
+All attributions:
+
+Blades of grass inspired by https://github.com/JERROMY/JERROMY.github.io
+
+farmSign.jpg:
+Made in google drawings, Inspired by South Park TV show
+
+HouseFront.png:
+From wb08, made in google drawings
+
+shedFront.png:
+Free on web, no attribution
+
+beeStripes.jpg & beeStripes2.jpg:
+Made in google drawings
+
+rockRoad.jpg & rockRoadNormal.jpg:
+https://www.sharetextures.com/textures/ground/rocky-ground-1 
+
+grass.png: 
+Made in google drawings
+
+BusSide.png & RoofShingles.png:
+From wb08, free on web, no attribution
+
+shedFront.png:
+Free on web, no attribution
+
+Animated-Woman.glb:
+By Quaternius from https://poly.pizza/m/qJ2gsTUBHL
+
+Farmer.glb:
+By Quaternius from https://poly.pizza/m/7pn3R6hPvE
+
+wood.jpg:
+By Rob Tuytel from https://polyhaven.com/a/rough_wood
+
+smooth-wooden-plank-textured-background.jpg:
+Image by rawpixel.com on Freepik
+
+Tractor.glb:
+Tractor by Poly by Google [CC-BY] 
+(https://creativecommons.org/licenses/by/3.0/) 
+via Poly Pizza (https://poly.pizza/m/eiXGnD1wN5q)
+
+Field-of-corn.glb
+Field of corn by Poly by Google [CC-BY] 
+(https://creativecommons.org/licenses/by/3.0/) 
+via Poly Pizza (https://poly.pizza/m/dE73diXi82k)
+
+Silo base:
+Image by fwstudio on Freepik
+https://www.freepik.com/free-photo/blue-corrugated-surface_968637.htm#query=silo%20texture&position=0&from_view=search&track=robertav1_2_sidr
+
+Silo top:
+Image by ArthurHidden on Freepik
+https://www.freepik.com/free-photo/abstract-white-blue-metal-background_11180916.htm#query=silo%20texture&position=3&from_view=search&track=robertav1_2_sidr
+
+Tree.glb:
+Tree by Marc Solà [CC-BY] 
+(https://creativecommons.org/licenses/by/3.0/) 
+via Poly Pizza (https://poly.pizza/m/6Yjt8nIwLsD)

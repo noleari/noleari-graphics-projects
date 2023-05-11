@@ -1,0 +1,11 @@
+Advanced Thing: Animated Shader Effect (#5)
+Example: LookAt: Grass-12 (or any other Grass object, 12 is just a good example)
+The GrassField object uses a shader pair along with a time uniform and randomly generated angle and position attributes to make the grass look realisitic and move
+
+Advanced Thing: Complex Behavior (#2)
+Example: Follow Bus-0
+Bus travels along the road, stops in front of the house and an animated woman gets off the bus and walks toward the house as the bus leaves
+
+Advanced Thing: Complex Behavior (#2) 
+Example: LookAt: SimpleGroundPlane-1
+Use WASD keys to make the farmer walk anywhere on the plane

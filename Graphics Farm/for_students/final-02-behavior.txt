@@ -1,0 +1,14 @@
+Three different behaviors that you made:
+1. Apiary-0 - Bees swarming in different directions around the apiary, their wings also flap accordingly
+2. Bus-0 - Bus traveling along the gravel road in a loop, stopping briefly in front of the house
+3. AnimationWoman - woman walking off bus when the bus arrives at her house
+
+One behavior that is not simple:
+Not simple: Grass-12 - vertex shader moves the grass over time as if there is wind
+
+Animated Articulated Figure:
+Articulated: AnimationWoman - woman walks off of bus toward house
+             Farmer - farmer walks around as user clicks WASD
+
+Other Behaviors that you made: (backup in case something above doesn't count)
+
